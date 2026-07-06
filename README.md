@@ -1,36 +1,97 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+ <div align="center">
 
-## Getting Started
+# 🌍 EnvireX
 
-First, run the development server:
+### **AI-Powered Supply Chain Intelligence Platform**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+*Predict • Analyze • Adapt*
+
+An intelligent platform that combines Machine Learning, Risk Analytics, and Interactive Visualization to help businesses anticipate disruptions and make smarter supply chain decisions.
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-green?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit)
+
+</div>
+
+---
+
+# 🚀 Overview
+
+EnvireX is an AI-powered decision support platform built to improve supply chain resilience through intelligent forecasting, disruption simulation, and risk-aware recommendations.
+
+Instead of only predicting future demand, EnvireX helps answer:
+
+- What could go wrong?
+- How severe is the risk?
+- What action should be taken?
+
+---
+
+# ✨ Features
+
+- 📈 AI-based Inventory Forecasting
+- ⚠️ Supply Chain Risk Assessment
+- 🌍 Disruption Simulation
+- 💡 Smart Recommendation Engine
+- 📊 Interactive Dashboard
+- 🔍 Explainable AI
+- 📉 Business Impact Visualization
+
+---
+
+# 🛠 Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | Next.js |
+| Dashboard | Streamlit |
+| Backend | Python |
+| Machine Learning | XGBoost, Scikit-Learn |
+| Visualization | Plotly |
+| Data Processing | Pandas, NumPy |
+| Explainability | SHAP |
+
+---
+
+# 📂 Project Structure
+
+```text
+EnvireX/
+│
+├── Dashboard/
+├── Data/
+├── Models/
+├── Outputs/
+├── src/
+└── README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# ⚡ Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+git clone https://github.com/yourusername/envirex.git
 
-## Learn More
+cd envirex
 
-To learn more about Next.js, take a look at the following resources:
+pip install -r requirements.txt
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+streamlit run Dashboard/app.py
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# 🎯 Vision
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+EnvireX aims to bridge the gap between predictive analytics and real-world operational decision-making by providing explainable, intelligent, and actionable insights for modern supply chains.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+<div align="center">
+
+⭐ If you found this project interesting, consider giving it a star!
+
+</div>

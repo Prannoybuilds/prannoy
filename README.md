@@ -248,6 +248,12 @@ EnvireX is designed to bridge this gap by combining predictive analytics with ex
 # 👨‍💻 Team
 
 Built with passion as an AI & Machine Learning project exploring the future of intelligent supply chain resilience.
+## 🤝 Contributors
+
+Special thanks to everyone who contributed to the development of EnvireX.
+
+- **Prannoy Sen** – https://github.com/YOUR_USERNAME
+- **Piyush Rajan** – https://github.com/PiyushRajan2007
 
 ---
 

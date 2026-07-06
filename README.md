@@ -252,8 +252,10 @@ Built with passion as an AI & Machine Learning project exploring the future of i
 
 Special thanks to everyone who contributed to the development of EnvireX.
 
-- **Prannoy Sen** – https://github.com/YOUR_USERNAME
+
 - **Piyush Rajan** – https://github.com/PiyushRajan2007
+- **Shaurya Kumar** https://github.com/Shauryakumar-18
+- - **Prannoy Sen** – https://github.com/Prannoybuilds
 
 ---
 

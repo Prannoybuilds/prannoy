@@ -256,7 +256,7 @@ Special thanks to everyone who contributed to the development of EnvireX.
 
 - **Piyush Rajan** – https://github.com/PiyushRajan2007
 - **Shaurya Kumar** https://github.com/Shauryakumar-18
-- - **Prannoy Sen** – https://github.com/Prannoybuilds
+- **Prannoy Sen** – https://github.com/Prannoybuilds
 
 ---
 
